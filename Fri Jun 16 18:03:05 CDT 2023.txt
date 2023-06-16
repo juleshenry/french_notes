@@ -62,7 +62,7 @@ attendu
 FINIR
 
 present:
-j'finis
+je finis
 tu finis
 il finit
 nous finissons
@@ -89,30 +89,30 @@ condition:
 j'finirais
 tu finirais
 elle finiras
-nous attendrions
-vous attendriez
-ils attendraient
+nous finirions
+vous finiriez
+ils finiraient
 
 passé composé:
-j'ai attendu
-tu attendu
-il attendu
-nous attendu
-vous attendu
-ils attendu
+j'ai fini
+tu fini
+il fini
+nous fini
+vous fini
+ils fini
 
 present subjuntif:
-que j'attendre
-que tu attendes
-que il attende
-que nous attendions
-que vous attendiez
-que qu'elles attendent
+que je finisse
+que tu finisses
+que il finisse
+que nous finissions
+que vous finissiez
+que qu'elles finissent
 
 imperatif subjuntif:
-attends
-attendons
-attendez
+finis
+finissons
+finissez
 
 present partiple:
 finissant
