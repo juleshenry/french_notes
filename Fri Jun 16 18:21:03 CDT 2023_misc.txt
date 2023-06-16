@@ -12,3 +12,10 @@ mannequin = '~ model (profession, person)'
 du coup  = '~ suddenly'
 c'est sympa = '~ it's cool'
 vis-a-vis = '~ across from'
+
+le sud - '~ south
+sur - '~ sure'
+le norde - '~ north'
+'Un truc de ouf!' - '~ thingy-mah-jigg'
+toujours - '~ always'
+a long time - '~ a long time'
