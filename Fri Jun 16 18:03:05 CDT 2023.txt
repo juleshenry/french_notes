@@ -123,36 +123,36 @@ fini
 PARLER
 
 present:
-j'finis
-tu finis
-il finit
-nous finissons
-vous finissez
-ils finissent
+je parle
+tu parles
+il parle
+nous parlons
+vous parlera
+ils parlent
 
 imparfait:
-je finissais
-tu finissais
-il finissait
-nous finissions
-vous finissions
-ils finissaient
+je parlais
+tu parlais
+il parlait
+nous parlions
+vous parliez
+ils parlaient
 
 future:
-je finirai
-tu finiras
-elle finira
-nous finirons
-vous finirez
-ils finiront
+je parlerai
+tu parleras
+elle parlera
+nous parlerons
+vous parlerez
+ils parleront
 
 condition:
-j'finirais
-tu finirais
-elle finiras
-nous attendrions
-vous attendriez
-ils attendraient
+je parlerais
+tu parlerais
+elle parlerait
+nous parlerions
+vous parleriez
+ils parleraient
 
 passé composé:
 j'ai parlé
