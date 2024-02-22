@@ -1,0 +1,182 @@
+ATTENDRE
+
+present:
+j'attends
+tu attends
+il attend
+nous attendons
+vous attendez
+ils attendent
+
+imparfait:
+j'attendais
+tu attendais
+il attendait
+nous attendions
+vous attendiez
+ils attendient
+
+future:
+j'attendrai
+tu attendras
+elle attendra
+nous attendrons
+vous attendrez
+ils attendront
+
+condition:
+j'attendrais
+tu attendrais
+elle  attendrait
+nous attendrions
+vous attendriez
+ils attendraient
+
+passé composé:
+j'ai attendu
+tu attendu
+il attendu
+nous attendu
+vous attendu
+ils attendu
+
+present subjuntif:
+que j'attendre
+que tu attendes
+que il attende
+que nous attendions
+que vous attendiez
+que qu'elles attendent
+
+imperatif subjuntif:
+attends
+attendons
+attendez
+
+present partiple:
+attendant
+
+past participle:
+attendu
+
+FINIR
+
+present:
+je finis
+tu finis
+il finit
+nous finissons
+vous finissez
+ils finissent
+
+imparfait:
+je finissais
+tu finissais
+il finissait
+nous finissions
+vous finissions
+ils finissaient
+
+future:
+je finirai
+tu finiras
+elle finira
+nous finirons
+vous finirez
+ils finiront
+
+condition:
+j'finirais
+tu finirais
+elle finiras
+nous finirions
+vous finiriez
+ils finiraient
+
+passé composé:
+j'ai fini
+tu fini
+il fini
+nous fini
+vous fini
+ils fini
+
+present subjuntif:
+que je finisse
+que tu finisses
+que il finisse
+que nous finissions
+que vous finissiez
+que qu'elles finissent
+
+imperatif subjuntif:
+finis
+finissons
+finissez
+
+present partiple:
+finissant
+
+past participle:
+fini
+
+PARLER
+
+present:
+je parle
+tu parles
+il parle
+nous parlons
+vous parlera
+ils parlent
+
+imparfait:
+je parlais
+tu parlais
+il parlait
+nous parlions
+vous parliez
+ils parlaient
+
+future:
+je parlerai
+tu parleras
+elle parlera
+nous parlerons
+vous parlerez
+ils parleront
+
+condition:
+je parlerais
+tu parlerais
+elle parlerait
+nous parlerions
+vous parleriez
+ils parleraient
+
+passé composé:
+j'ai parlé
+tu parlé
+il parlé
+nous parlé
+vous parlé
+ils parlé
+
+present subjuntif:
+que parlerai
+que parleras
+que parlera
+que parlerons
+que parlerez
+qu'ils, qu'elles parlent
+
+imperatif subjuntif:
+parle
+parlons
+parlez
+
+present partiple:
+parlant
+
+past participle:
+parlé
