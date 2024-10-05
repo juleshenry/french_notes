@@ -1,111 +1,53 @@
-plaidoiries 
-gênait 
-démontrer 
-preuve 
-l'éclairage
-fournira 
-âme 
-événements 
-manquait 
-besogne 
-moi j'écoutais 
-seule 
-ému 
-m'accabler 
-mas tant d'acharnement m'étonnait
-muer 
-saurions 
-gouffre 
-selon 
-osait 
-faiblesse 
-cédait 
-craignait 
-ressentait 
-tuait 
-meurtrière 
-son devoir 
-léger 
-ressens
-mêlant 
-donné 
-penché 
-plaidé 
-honnête 
-soutenu 
-m'étonne 
-mené 
-je me souviens 
-assailli 
-m'appartenait 
-gorge 
-traînais 
-châtiments 
-douceur 
-souriait 
-meurtre 
-cassation 
-éloignés 
-pourvoi 
-tranchée 
-lisais 
-emmené 
-recevoir 
-l'aumônier 
-allongé 
-je ne vois que lui 
-eussent échappé 
-saut 
-l'espoir 
-imperturbable 
-je ne l'avais pas connu 
-j'écrasais 
-empoisonée 
-recroquevillais 
-couperet
-lequel 
-souhaitât 
-marchât 
-accroc 
-machine 
-fusse 
-aspect 
-l'échafaud 
-honte 
-tandis 
-l'aube 
-pourvoi 
-m'efforçais 
-je finissais par me dire que... 
-contraindre 
-l'aube 
-naisse 
-vitre 
-guettais 
-rauque 
-tout le monde sait que la vie ne vaut pas la peine d'être vécue 
-dans le fond 
-bond 
-frottées 
-adossé
-musclée 
-cuisses 
-réellement
-g'agacement
-étroite 
-remuer 
-s'il n'osait avancer 
-avais-je cherché un visage 
-fût 
-valait 
-l'aumônier 
-menaçaient 
-épuisé
-tempes 
-d'étoiles 
-tendre 
-restait 
-souhaiter 
-m'accueillent 
-cris 
-haine 
+plaidoiries -> pleadings
+gênait -> bothered
+démontrer -> demonstrate
+preuve -> proof
+l'éclairage -> lighting
+fournira -> will provide
+âme -> soul
+événements -> events
+manquait -> was missing
+besogne -> task
+moi j'écoutais -> I was listening
+seule -> alone
+ému -> moved
+m'accabler -> overwhelm me
+mais tant d'acharnement m'étonnait -> but such perseverance surprised me
+muer -> to change
+saurions -> would know
+gouffre -> abyss
+selon -> according to
+osait -> dared
+faiblesse -> weakness
+cédait -> yielded
+craignait -> feared
+ressentait -> felt
+tuait -> killed
+meurtrière -> murderer
+son devoir -> his duty
+léger -> light
+ressens -> feel
+mêlant -> mixing
+donné -> given
+penché -> leaned
+plaidé -> pleaded
+honnête -> honest
+soutenu -> supported
+m'étonne -> surprises me
+mené -> led
+je me souviens -> I remember
+assailli -> assaulted
+m'appartenait -> belonged to me
+gorge -> throat
+traînais -> dragged
+châtiments -> punishments
+douceur -> sweetness
+souriait -> smiled
+meurtre -> murder
+cassation -> appeal
+éloignés -> distant
+pourvoi -> appeal
+tranchée -> trench
+lisais -> was reading
+emmené -> taken
+recevoir -> receive
